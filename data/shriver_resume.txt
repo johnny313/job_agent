@@ -1,0 +1,299 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;\f2\fswiss\fcharset0 ArialMT;
+\f3\froman\fcharset0 Times-Italic;\f4\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid2\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid802\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid12}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\qc\partightenfactor0
+
+\f0\b\fs42\fsmilli21333 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 John Shriver
+\f1\b0\fs24 \
+\pard\pardeftab720\qc\partightenfactor0
+
+\fs29\fsmilli14667 \cf0 Phone: (206) 851-5638, Email: johnny313@gmail.com
+\fs24 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs32 \cf0 \ul \ulc0 EXPERIENCE
+\f1\b0\fs24 \ulnone \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 Regrow Ag, Director of Data Science 
+\f1\b0 May 2022 - Present
+\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Manage Machine Learning and Data Products QA teams (Manager of Managers)\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Oversee the development and deployment of remote sensing based deep learning models used to generate continent scale agronomic data products covering North America, Europe, Australia, and Vietnam.\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Design and manage automated QA processes for these data products, including creation of customer specific reports and FAQ.\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Data products directly support multiple customer facing products and APIs, responsible for >$10M annual revenue.\'a0\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Collaborate with peer Engineering and Product teams to develop roadmaps and generate regular data product updates.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Implement software engineering best practices across the DS organization including use of github, code reviews, and sprint planning.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Grow Data Science organization from 10 to 19 people\
+\pard\pardeftab720\partightenfactor0
+
+\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 Descartes Labs 
+\f1\b0 November 2018 - May 2022
+\fs24 \
+
+\f0\b\fs29\fsmilli14667 Director of Platform
+\f1\b0\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0
+\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Oversaw Customer Success, Product, and Professional services for the Descartes Labs Platform
+\f0\b \
+\ls2\ilvl0
+\f1\b0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Founded and grew the DL Professional Services team from to 5 people
+\f0\b \
+\pard\pardeftab720\partightenfactor0
+\cf0 Platform Consulting and Government Team Lead\'a0
+\f1\b0\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0
+\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Technical management and oversight of DL\'92s FedGov Applied Science group (object detection and change detection modeling, crop monitoring, etc)\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Lead development of remote sensing customer enablement training and course work\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls4\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Developed and maintained AIS based daily shipping vessel consumption data product
+\f2 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 Premise Data, Senior Data Scientist 
+\f1\b0 (Portland, OR) January 2018 - November 2018
+\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls5\ilvl0
+\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Project Lead: Wifi Infrastructure Mapping. Developed localization algorithm and data processing pipeline, using mobile phone wifi scan data to map wireless access points.
+\f2 \
+\ls5\ilvl0
+\f1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Designed data quality and integrity monitoring program for mobile phone background data collection stream\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Work with Product and Engineering leadership to brainstorm new data products and verticals\
+\pard\pardeftab720\partightenfactor0
+
+\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 Planetary Resources Inc., Senior Data Scientist 
+\f1\b0 (Portland, OR) February 2016 - December 2018
+\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls6\ilvl0
+\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Lead remote sensing algorithm development, using machine learning methods and radiative transfer theory to determine material composition from hyperspectral data.
+\f2 \
+\ls6\ilvl0
+\f1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Managed an aerial imagery campaign evaluating the use of midwave infrared imagery for soil moisture monitoring in agricultural fields. Results presented at the 2016 American Society of Agronomy meeting.\
+\ls6\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Worked with business development team to identify new data products, develop prototypes, and pitch potential customers. Generated $3 million in contract opportunities as a direct result of these efforts.\
+\pard\pardeftab720\partightenfactor0
+
+\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 FarmLogs, Lead Data Scientist 
+\f1\b0 (Ann Arbor, MI) May 2014 - February 2016
+\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls7\ilvl0
+\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Directed FarmLogs scientific research and development activities, including recruitment, hiring, and daily management of 7 data scientists and agronomists
+\f2 \
+\ls7\ilvl0
+\f1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Designed and implemented algorithms for productivity zone delineation and remote monitoring of agricultural fields using RapidEye imagery (FarmLogs Crop Health Alerts)
+\f2 \
+\ls7\ilvl0
+\f1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Developed data integration and processing pipelines for remotely sensed imagery and SSURGO soil data into the APSIM crop model (FarmLogs N Monitoring and Prescriptions)
+\f2 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 University of Michigan: Children's Environmental Health Initiative, Statistician 
+\f1\b0 (Ann Arbor, MI) May 2013 - May 2014
+\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls8\ilvl0
+\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Developed patient risk model for diabetic patient risk of hospitalization using electronic health record data, currently in use at Duke University Health System in Durham, NC.\'a0\'a0
+\f2 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 US Coast Guard Reserve, Boatswain\'92s Mate Second Class
+\f1\b0  (Tacoma, WA) June 2002- July 2010
+\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls9\ilvl0
+\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Deployments:\'a0\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls9\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Guantanamo Bay, Cuba: Global War on Terrorism (2008)\
+\ls9\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Iraq and Kuwait: Operation Iraqi Freedom (2003)\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls9\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Selected Awards: Joint Forces Achievement Medal; Coast Guard Commendation Medal; Junior Trooper of the Quarter, JTF Guantanamo Bay (2008); Enlisted Person of the Year, PSU 313 (2005)\'a0
+\f2 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 \ul \ulc0 SKILLS
+\f1\b0\fs24 \ulnone \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls10\ilvl0
+\f0\b\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Data Processing/Analysis
+\f1\b0 : Pandas, Numpy, Scipy, Scikit-Learn, OpenCV, R, ArcGIS, QGIS, GDAL, ENVI, TensorFlow, SQL, BigQuery, Google Earth Engine\'a0
+\f2 \
+\ls10\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Programming Languages
+\f1\b0 : Python, R, SQL, PostGIS, Bash
+\f2 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 \ul \ulc0 EDUCATION
+\f1\b0\fs24 \ulnone \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 University of Michigan: MS 
+\f1\b0 (Natural Resources and Environment) 
+\f0\b \'a0
+\f1\b0 2013
+\fs24 \
+\
+
+\f0\b\fs29\fsmilli14667 University of Washington:
+\f1\b0  
+\f0\b BA 
+\f1\b0 (Islamic Studies) 2006
+\fs24 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 \ul \ulc0 Selected Publications
+\f1\b0\fs24 \ulnone \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls11\ilvl0
+\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Jones, M. O., Figueiredo, G., Howson, S., Toro, A., Rundquist, S., Garner, G., ... & 
+\f0\b Shriver, J.
+\f1\b0  (2024). Monitoring and Mapping a Decade of Regenerative Agricultural Practices Across the Contiguous United States. Land, 13(12), 2246.\
+\ls11\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Yi, Z., 
+\f0\b Shriver, J.
+\f1\b0 , Bader, M., & Ahn, P. (2024). Delineating Time-Sensitive Agricultural Practices with a Temporal Transformer Model for Methane Emission Reduction in Rice Paddies. AGU24.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls11\ilvl0
+\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Shriver, J.
+\f1\b0 , Jones, M., Rundquist, S., Melendy, L., Barrett, S., Yi, Z., & Rollend, D. (2023, December). Monitoring Field Level Regenerative Agricultural Practices at Continent Scale with Remote Sensing. In AGU Fall Meeting Abstracts (Vol. 2023, pp. GC52C-08).\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls11\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Jin, Z., Prasad, R., 
+\f0\b Shriver, J.
+\f1\b0 , & Zhuang, Q. (2017) Crop model and satellite imagery-based recommendation tool for variable rate N fertilizer application for the US Corn system. 
+\f3\i Precision Agriculture
+\f1\i0 , 1-22.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls11\ilvl0
+\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Shriver, J
+\f1\b0 ., Frank, E. (2016) \'93Mapping Soil Moisture: Using Thermal Imagery to Make Practical Agronomic Decisions\'94 Invited Presentation at the 2016 ASA, CSSA and SSSA International Annual Meetings. Phoenix, AZ. 7 November 2016.
+\f4 \
+\ls11\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Shriver, J
+\f1\b0 . (2015) \'93Automatic Scouting of Agricultural Fields with High Resolution Satellite Imagery\'94 Oral Presentation at the 2015 ASA, CSSA and SSSA International Annual Meetings. Minneapolis, MN. 16 November 2015.\
+\pard\pardeftab720\partightenfactor0
+
+\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf0 \ul \ulc0 Patents
+\f1\b0\fs24 \ulnone \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls12\ilvl0
+\f0\b\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Shriver, J.
+\f1\b0 , Agarwal, M. (2017) System and method for crop health monitoring. 
+\f3\i U.S. Patent No. US20170131254A1
+\f1\i0  Washington, DC: U.S. Patent and Trademark Office.\
+\ls12\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Shriver, J. 
+\f1\b0 (2016) System and method for field variance determination. 
+\f3\i U.S. Patent No. US20170308750A1 
+\f1\i0 Washington, DC: U.S. Patent and Trademark Office.\
+\ls12\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Shriver, J.
+\f1\b0 , Prasad, R., Ascher, M., Blackmer, T. (2016) System and method for remote nitrogen monitoring and prescription. 
+\f3\i U.S. Patent N
+\f1\i0 o. 
+\f3\i US20170213083A1
+\f1\i0  Washington, DC: U.S. Patent and Trademark Office.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls12\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Vollmar, J., 
+\f0\b Shriver, J.
+\f1\b0 , Wieczorek, D., Valentiner, E., Truong, H. (2016) Automated agricultural activity determination system and method. 
+\f3\i U.S. Patent No. US20160314542 A1
+\f1\i0  Washington, DC: U.S. Patent and Trademark Office.\
+\pard\pardeftab720\partightenfactor0
+
+\fs24 \cf0 \
+}
